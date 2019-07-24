@@ -1,0 +1,14 @@
+ul {
+  color: red; }
+
+.caixa ul {
+  color: green; }
+.caixa a {
+  text-decoration: none;
+  color: red; }
+.caixa a:hover {
+  color: yellow; }
+.caixa div p {
+  font-size: 2em; }
+
+/*# sourceMappingURL=aula3.css.map */

@@ -1,0 +1,26 @@
+$t: 30px;
+$red: 150;
+$color: white;
+
+.p1{
+    padding: 30px;
+    font-size: $t;
+    background-color: rgb($red, 0, 0);
+    color: $color;
+}
+
+.p2{
+    padding: 30px;
+    font-size: $t + 5;
+    background-color: rgb($red + 50, 0, 0);
+    color: $color;
+
+}
+
+.p3{
+    padding: 30px;
+    font-size: $t - 5px;
+    background-color: rgb($red + 100, 0, 0);
+    color: $color;
+}
+

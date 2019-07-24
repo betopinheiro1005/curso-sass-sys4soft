@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAG;EACC,gBAAgB,EAAE,SAAS;EAC3B,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,KAAK;;AAGpB,GAAG;EAEC,SAAS,EAAE,GAAG;EACd,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;;AAGf,GAAG;EAEC,SAAS,EAAE,GAAG",
+"sources": ["../sass/aula6.scss"],
+"names": [],
+"file": "aula6.css"
+}

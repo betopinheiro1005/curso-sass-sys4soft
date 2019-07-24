@@ -1,0 +1,12 @@
+// Teste de SASS
+/* Teste de SASS */
+
+$cor: blue;
+$tamanho: 36px;
+$tipo_fonte: 'Trebuchet MS';
+
+p {
+    color: $cor;
+    font-size: $tamanho;
+    font-family: $tipo_fonte;
+}

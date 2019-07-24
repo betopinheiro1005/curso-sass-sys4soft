@@ -1,0 +1,26 @@
+.artigo1 {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #b4b4b4; }
+
+.artigo1 h1 {
+  font-size: 2.5em;
+  color: blue; }
+
+.artigo2 {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 40px;
+  background-color: #d1d8a7; }
+
+.artigo3 {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 60px;
+  background-color: #a5bed6; }
+
+/*# sourceMappingURL=aula5.css.map */

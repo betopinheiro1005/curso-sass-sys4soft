@@ -1,0 +1,28 @@
+$tamanho: 2em;
+
+ul {
+    color: red;
+}
+
+.caixa{
+
+    ul{
+        color: green;
+    }
+    
+    a{
+        text-decoration: none;
+        color: red;
+    }
+
+    a:hover{
+        color: yellow;
+    }
+
+    div{
+        p{
+            font-size: $tamanho;
+        }
+    }
+    
+}

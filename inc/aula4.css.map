@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAO;EACH,SAAS,EAAE,GAAG;;ACClB,QAAQ;EACJ,SAAS,EAAE,KAAK;EAChB,KAAK,EAAE,GAAG;;ACFd,QAAQ;EACJ,SAAS,EAAE,GAAG;EACd,KAAK,EAAE,IAAI;;ACFf,QAAQ;EACJ,SAAS,EAAE,GAAG;EACd,KAAK,EAAE,KAAK",
+"sources": ["../sass/aula4.scss","../sass/_seccao1.scss","../sass/_seccao2.scss","../sass/_seccao3.scss"],
+"names": [],
+"file": "aula4.css"
+}

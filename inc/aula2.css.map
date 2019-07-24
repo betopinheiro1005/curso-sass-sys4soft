@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,mBAAmB;AAMnB,CAAE;EACE,KAAK,EALH,IAAI;EAMN,SAAS,EALH,IAAI;EAMV,WAAW,EALF,cAAc",
+"sources": ["../sass/aula2.scss"],
+"names": [],
+"file": "aula2.css"
+}
